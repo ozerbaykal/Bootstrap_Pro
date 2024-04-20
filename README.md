@@ -4,23 +4,23 @@
 <h2>content</h2>
 
 <h3>
-<p>  ** A platform that brings together new job seekers and employers 
-     ** You can find popular jobs
+  ** A platform that brings together new job seekers and employers <br>
+  ** You can find popular jobs <br>
 
 
-</p>
+
 </h3>
 
 
 <h2>Used technologies</h2>
 
 <h3>
-<p> *** HTML5 And CCS were used
-    ***Bootstrap library  was used
-    ***enriched with google fonts and Font awesome
-    *All of responsive designe
+    *** HTML5 And CCS were used<br>
+    *** Bootstrap library  was used<br>
+    *** Enriched with google fonts and Font awesome<br>
+    *** All of responsive designe<br>
 
-</p>
+
 
 </h3>
 
@@ -30,15 +30,15 @@
 
 <h2>here are the ScreenShoots</h2>
 
-![](Ekran alıntısı1.PNG)
+![](EkranAlıntısı1.PNG)
 
-![](Ekran alıntısı2.PNG)
+![](EkranAlıntısı2.PNG)
 
-![](Ekran alıntısı3.PNG)
+![](EkranAlıntısı3.PNG)
 
-![](Ekran alıntısı4.PNG)
+![](EkranAlıntısı4.PNG)
 
-![](Ekran alıntısı5.PNG)
+![](EkranAlıntısı5.PNG)
 
 
 
